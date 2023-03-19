@@ -9,7 +9,7 @@
 
 - A passionate low level developer
 - Currently learning about [WGPU](https://docs.rs/wgpu/0.15.1/wgpu/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
